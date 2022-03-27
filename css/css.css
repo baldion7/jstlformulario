@@ -1,0 +1,54 @@
+*{
+    font-family: 'Fredoka', sans-serif;
+
+}
+body{
+    display: flex;
+    align-items: center;
+
+}
+#iconoma{
+    fill: deepskyblue;
+}
+#iconofe{
+    fill: #c21f8c;
+}
+#fonfoo{
+
+    background-size: cover;
+    border-radius: 20px ;
+    -moz-box-shadow: 10px 10px 50px #565656;
+    -webkit-box-shadow: 10px 10px 50px #565656;
+    box-shadow: 10px 10px 50px #565656;
+
+
+}
+
+div{
+    width: 600px;
+    height: 700px;
+}
+#titulo{
+    padding-top: 50px;
+    text-align: center;
+
+}
+label{
+
+    color: white;
+}
+#imputcodigo{
+    width: 190px;
+}
+#exampleFormControlTextarea1{
+    width: 400px;
+    height: 100px;
+}
+#formm{
+    padding-left: 80px;
+}
+#contiene{
+    padding-left: 260px;
+
+}
+
